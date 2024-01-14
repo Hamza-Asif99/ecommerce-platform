@@ -1,0 +1,1 @@
+Nest.js backend for the ecommerce platform
